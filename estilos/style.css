@@ -14,7 +14,7 @@ Lilás:#5f2c82
 html, body{
     background-color:#5f2c82 ;
     width: 100vw;
-    height: 10vh;
+    height: 100vh;
 }
 main{
     position: relative;
@@ -32,6 +32,7 @@ section#login{
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.486);
+    
 }
 section#login > div#imagem{
     display: block;
